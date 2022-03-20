@@ -124,7 +124,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <div className="p-3 mb-2 bg-success text-white text-center h3">Proyecto de unidad 2 de simulación de sistemas</div>
+        <div className="p-3 mb-2 bg-success text-white text-center h3">Generadores congruenciales</div>
         <div className="container mt-5">
           <form className="mb-3">
             <div className="row">
